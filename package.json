@@ -11,6 +11,11 @@
         "type": "git",
         "url": "https://idontknow/todo.git"
     },
-    "description": "A project that does something awesome",
-    "author": "Karlis"
+    "author": "Karlis",
+    "description": "Working with NPM through FCC",
+    "keywords": [
+        "FCC",
+        "Karlis",
+        "Top IT"
+    ]
 }
